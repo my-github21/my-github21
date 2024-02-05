@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @my-github21
-- 👀 I’m interested in Software Developement
+- 👋 Hi, I’m Vivek Nimbhorkar
+- 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via  viveknimbhorkar1@gmail.com
